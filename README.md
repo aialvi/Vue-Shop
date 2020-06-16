@@ -1,5 +1,7 @@
 # vue-shop
 
+live view: https://frosty-snyder-e22aee.netlify.app/
+
 ## Project setup
 ```
 npm install
